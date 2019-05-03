@@ -27,5 +27,10 @@
 		["youpool.io/TYCHEUS" , "http://tycheus.youpool.io:8111"],
 		["tyche.cryptomasterpool.com","http://tyche.cryptomasterpool.com/api"],
 		["tych.cryptonote.club","https://tych.cryptonote.club:8199"]
-	]
+	],
+    "btn": [
+        ["btn.gonspool.com", "http://btn.gonspool.com/api"],
+	["superblockchain.con-ip.com/btn", "http://superblockchain.con-ip.com:8133"],
+	["pool.bitcoinn.biz","http://pool.bitcoinnova.org:8133"]
+    ]
 }
