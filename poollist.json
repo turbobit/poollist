@@ -1,24 +1,16 @@
 {
-     "wtip": [
-          ["WTIP.gonspool.com", "//wtip.gonspool.com/api"],
-          ["merge.gonspool.com/wtipdero","//merge.gonspool.com/wtipdero/api"],
-          ["merge.gonspool.com/wtipmcn","//merge.gonspool.com/wtipmcn/api"],
-          ["pool.worktips.xyz","https://pool.worktips.xyz/api"],
-          ["wtip.multipools.online","https://wtip.multipools.online:8119"],
-          ["communitypool.org/worktips","https://communitypool.org:8449"],
-          ["hydra.xripx.com","http://hydra.xripx.com:8999"]
+     "btn": [
+          ["btn.gonspool.com", "http://btn.gonspool.com/api"],
+          ["superblockchain.con-ip.com/btn", "http://superblockchain.con-ip.com:8133"],
+          ["pool.bitcoinn.biz","http://pool.bitcoinnova.org:8133"]
      ],
-     "dpr": [
-          ["merge.gonspool.com/dprmcn","//merge.gonspool.com/dprmcn/api"],
-          ["gd186.com","//gd186.com:8817"]
-     ],
-     "mcn":[
-          ["merge.gonspool.com/dprmcn","//merge.gonspool.com/mcndpr/api"],
-          ["merge.gonspool.com/wtipmcn","//merge.gonspool.com/mcnwtip/api"]
-     ],
-     "dego":[
-          ["merge.gonspool.com/wtipdero","//merge.gonspool.com/derowtip/api"],
-          ["https://tlrmdego.merged.stx.nl","https://tlrmdego.merged.stx.nl/tlrmdego-api"]
+     "bbs": [
+          ["bbs.gonspool.com","//bbs.gonspool.com/api"],
+          ["pool.bbscoin.xyz", "http://pool.bbscoin.xyz:8117"],
+          ["cryptoknight.cc/bbs", "https://cryptoknight.cc/rpc/bbs"],
+          ["bbscoin.cryptohispano.net", "https://bbscoin.cryptohispano.net/api"],
+          ["bbscoin.my-mining-pool.de","https://apibbscoin.my-mining-pool.de"],
+          ["bbs.proxpool.com","http://bbs-pool.proxpool.com/api"]
      ],
      "tych": [
           ["tyc.kunpoolsion.tk", "http://tyc.kunpoolsion.tk:8118"],
@@ -29,9 +21,57 @@
           ["tyche.cryptomasterpool.com","http://tyche.cryptomasterpool.com/api"],
           ["tych.cryptonote.club","https://tych.cryptonote.club:8199"]
      ],
-     "btn": [
-          ["btn.gonspool.com", "http://btn.gonspool.com/api"],
-          ["superblockchain.con-ip.com/btn", "http://superblockchain.con-ip.com:8133"],
-          ["pool.bitcoinn.biz","http://pool.bitcoinnova.org:8133"]
-     ]
+     "wtip": [
+          ["WTIP.gonspool.com", "//wtip.gonspool.com/api"],
+          ["merge.gonspool.com/wtipdero","//merge.gonspool.com/wtipdero/api"],
+          ["merge.gonspool.com/wtipmcn","//merge.gonspool.com/wtipmcn/api"],
+          ["pool.worktips.xyz","https://pool.worktips.xyz/api"],
+          ["wtip.multipools.online","https://wtip.multipools.online:8119"],
+          ["communitypool.org/worktips","https://communitypool.org:8449"],
+          ["hydra.xripx.com","http://hydra.xripx.com:8999"]
+     ],
+     "intu": [
+          ["pool.intucoin.com", "http://pool.us.intucoin.com:8117"],
+          ["pool.jp.intucoin.com", "http://pool.jp.intucoin.com:8117"],
+          ["intu.gonspool.com", "//intu.gonspool.com/api"],
+          ["intu.superpools.online", "http://intu.superpools.online:8116"]
+     ],
+     "mtip": [
+          [ "mtip.gonspool.com","//mtip.gonspool.com/api"],
+          [ "mtip.heigh-ho.funkypenguin.co.nz","https://api.mtip.heigh-ho.funkypenguin.co.nz"],
+          [ "mtips.arhash.xyz","https://mtips.arhash.xyz:8119"],
+          [ "mtip.llama.horse","https://pool.llama.horse:13007"],
+          [ "communitypool.org/mtip","https://xvv.communitypool.org:8123"]
+     ],
+     "lcx": [
+          [ "lcx.gonspool.com","//lcx.gonspool.com/api"],
+          [ "hashblaster.com","https://api.hashblaster.com"],
+          [ "arq.lcx.llama.horse/lcx","http://pool.llama.horse:43004"],
+          [ "lcx.profitbotpro.com","https://lcx.profitbotpro.com/api"]
+     ],
+     "xnb": [
+          [ "xnb.gonspool.com","//xnb.gonspool.com/api"],
+          [ "pool.xeonbit.com","http://pool.xeonbit.com:8001"],
+          [ "goldenhillpool.com","https://goldenhillpool.com:9119"],
+          [ "cnpool.cc/xnb", "https://cnpool.cc/api/xnb"],	
+          [ "youpool.io/XNB","http://144.202.120.172:8122"]
+     ],
+     "ztc": [
+          ["zent.gonspool.com", "//zent.gonspool.com/api"],
+          ["ztc.cryptonote.club", "https://ztc.cryptonote.club:8199"], 
+          ["ztc.cryptohispano.net", "https://ztc.cryptohispano.net/api"],
+          ["fastpool.xyz", "https://fastpool.xyz:8128"]
+     ],
+     "dego":[
+          ["merge.gonspool.com/wtipdero","//merge.gonspool.com/derowtip/api"],
+          ["https://tlrmdego.merged.stx.nl","https://tlrmdego.merged.stx.nl/tlrmdego-api"]
+     ],
+     "dpr": [
+          ["merge.gonspool.com/dprmcn","//merge.gonspool.com/dprmcn/api"],
+          ["gd186.com","//gd186.com:8817"]
+     ],
+     "mcn":[
+          ["merge.gonspool.com/dprmcn","//merge.gonspool.com/mcndpr/api"],
+          ["merge.gonspool.com/wtipmcn","//merge.gonspool.com/mcnwtip/api"]
+     ]                 
 }
