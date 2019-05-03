@@ -18,5 +18,14 @@
    "dego":[
         ["merge.gonspool.com/wtipdero","//merge.gonspool.com/derowtip/api"],
         ["https://tlrmdego.merged.stx.nl","https://tlrmdego.merged.stx.nl/tlrmdego-api"]
-   ]
+   ],
+   "tych": [
+		["tyc.kunpoolsion.tk", "http://tyc.kunpoolsion.tk:8118"],
+		["tychecash.net", "http://tychecash.net:8117"],
+		["tyche.simpool.xyz", "https://tyche.simpool.xyz:8449"],
+		["tyc.gonspool.com" , "//tyc.gonspool.com/api"],
+		["youpool.io/TYCHEUS" , "http://tycheus.youpool.io:8111"],
+		["tyche.cryptomasterpool.com","http://tyche.cryptomasterpool.com/api"],
+		["tych.cryptonote.club","https://tych.cryptonote.club:8199"],
+	]
 }
