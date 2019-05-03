@@ -1,5 +1,5 @@
 {
-   "wtip": {
+   "wtip": [
         {"WTIP.gonspool.com", "//wtip.gonspool.com/api"},
         {"merge.gonspool.com/wtipdero","//merge.gonspool.com/wtipdero/api"},
         {"merge.gonspool.com/wtipmcn","//merge.gonspool.com/wtipmcn/api"},
@@ -7,16 +7,16 @@
         {"wtip.multipools.online","https://wtip.multipools.online:8119"},
         {"communitypool.org/worktips","https://communitypool.org:8449"},
         {"hydra.xripx.com","http://hydra.xripx.com:8999"},
-   },
-   "dpr": {
+   ],
+   "dpr": [
         {"merge.gonspool.com/dprmcn","//merge.gonspool.com/dprmcn/api"},
-    },
-   "mcn":{
+    ],
+   "mcn":[
         {"merge.gonspool.com/dprmcn","//merge.gonspool.com/mcndpr/api"},
         {"merge.gonspool.com/wtipmcn","//merge.gonspool.com/mcnwtip/api"},
-    },
-   "dego":{
+    ],
+   "dego":[
         {"merge.gonspool.com/wtipdero","//merge.gonspool.com/derowtip/api"},
         {"https://tlrmdego.merged.stx.nl","https://tlrmdego.merged.stx.nl/tlrmdego-api"},
-   },
+   ],
 }
