@@ -1,5 +1,5 @@
 {
-   "wtip": {
+   "wtip": [
         ["WTIP.gonspool.com", "//wtip.gonspool.com/api"],
         ["merge.gonspool.com/wtipdero","//merge.gonspool.com/wtipdero/api"],
         ["merge.gonspool.com/wtipmcn","//merge.gonspool.com/wtipmcn/api"],
@@ -7,7 +7,7 @@
         ["wtip.multipools.online","https://wtip.multipools.online:8119"],
         ["communitypool.org/worktips","https://communitypool.org:8449"],
         ["hydra.xripx.com","http://hydra.xripx.com:8999"],
-   },
+   ],
    "dpr": [
         ["merge.gonspool.com/dprmcn","//merge.gonspool.com/dprmcn/api"],
     ],
