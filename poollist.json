@@ -72,6 +72,11 @@
      ],
      "mcn":[
           ["merge.gonspool.com/dprmcn","//merge.gonspool.com/mcndpr/api"],
+          ["merge.gonspool.com/infmcn","//merge.gonspool.com/mcninf/api"],
           ["merge.gonspool.com/wtipmcn","//merge.gonspool.com/mcnwtip/api"]
-     ]                 
+     ],
+     "inf8":[
+          ["merge.gonspool.com/infmcn","//merge.gonspool.com/infmcn/api"],
+          ["infinium8.minercountry.com","https://infinium8.minercountry.com:8445"]
+     ]                             
 }
