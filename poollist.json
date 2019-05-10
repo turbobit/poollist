@@ -41,7 +41,8 @@
           [ "mtip.heigh-ho.funkypenguin.co.nz","https://api.mtip.heigh-ho.funkypenguin.co.nz"],
           [ "mtips.arhash.xyz","https://mtips.arhash.xyz:8119"],
           [ "mtip.llama.horse","https://pool.llama.horse:13007"],
-          [ "communitypool.org/mtip","https://xvv.communitypool.org:8123"]
+          [ "communitypool.org/mtip","https://xvv.communitypool.org:8123"],
+          [ "mtip.heigh-ho.funkypenguin.co.nz","https://api.mtip.heigh-ho.funkypenguin.co.nz"]   
      ],
      "lcx": [
           [ "lcx.gonspool.com","//lcx.gonspool.com/api"],
