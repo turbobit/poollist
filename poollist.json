@@ -2,7 +2,8 @@
      "btn": [
           ["btn.gonspool.com", "http://btn.gonspool.com/api"],
           ["superblockchain.con-ip.com/btn", "http://superblockchain.con-ip.com:8133"],
-          ["pool.bitcoinn.biz","http://pool.bitcoinnova.org:8133"]
+          ["pool.bitcoinn.biz","http://pool.bitcoinnova.org:8133"],
+          ["www.coinsforhash.com/btcnova","https://coinsforhash.com:8125"]
      ],
      "bbs": [
           ["bbs.gonspool.com","//bbs.gonspool.com/api"],
