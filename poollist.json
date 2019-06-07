@@ -57,9 +57,8 @@
      ],
      "ztc": [
           ["zent.gonspool.com", "//zent.gonspool.com/api"],
-          ["ztc.cryptonote.club", "https://ztc.cryptonote.club:8199"], 
-          ["ztc.cryptohispano.net", "https://ztc.cryptohispano.net/api"],
-          ["fastpool.xyz", "https://fastpool.xyz:8128"]
+          ["ztc.cryptonote.club", "https://ztc.cryptonote.club:8199"],
+          ["fastpool.xyz", "https://backup.fastpool.xyz:8128"]
      ],
      "dego":[
           ["merge.gonspool.com/wtipdero","//merge.gonspool.com/derowtip/api"],
