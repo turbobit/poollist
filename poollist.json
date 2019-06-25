@@ -18,6 +18,7 @@
           ["tychecash.net", "http://tychecash.net:8117"],
           ["tyche.simpool.xyz", "https://tyche.simpool.xyz:8449"],
           ["tyc.gonspool.com" , "//tyc.gonspool.com/api"],
+          ["gonspool-test-seede" , "//tyc.gonspool.com/api-seede"],
           ["youpool.io/TYCHEUS" , "http://tycheus.youpool.io:8111"],
           ["tyche.cryptomasterpool.com","http://tyche.cryptomasterpool.com/api"],
           ["tych.cryptonote.club","https://tych.cryptonote.club:8199"]
