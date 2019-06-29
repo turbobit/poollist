@@ -44,14 +44,15 @@
           [ "lcx.gonspool.com","//lcx.gonspool.com/api"],
           [ "hashblaster.com","https://api.hashblaster.com"],
           [ "arq.lcx.llama.horse/lcx","http://pool.llama.horse:43004"],
-          [ "lcx.profitbotpro.com","https://lcx.profitbotpro.com/api"]
+          [ "lcx.profitbotpro.com","https://lcx.profitbotpro.com/api"],
+          [ "lcx.turbomine.co","https://lcx.turbomine.co:8116"],
+          [ "arqlcx.oieieio.xyz","http://arqlcx.oieieio.xyz:9799"]
      ],
      "xnb": [
           [ "xnb.gonspool.com","//xnb.gonspool.com/api"],
           [ "pool.xeonbit.com","http://pool.xeonbit.com:8001"],
           [ "goldenhillpool.com","https://goldenhillpool.com:9119"],
-          [ "cnpool.cc/xnb", "https://cnpool.cc/api/xnb"],	
-          [ "youpool.io/XNB","http://144.202.120.172:8122"]
+          [ "cnpool.cc/xnb", "https://cnpool.cc/api/xnb"]
      ],
      "ztc": [
           ["zent.gonspool.com", "//zent.gonspool.com/api"],
