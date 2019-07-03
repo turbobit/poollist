@@ -28,7 +28,7 @@
           ["hydra.xripx.com","http://hydra.xripx.com:8999"],
           ["wtipmcn.minercountry.com","https://wtipmcn.minercountry.com/api"],
           ["fastpool.xyz/wtip","https://backup.fastpool.xyz:8185"],
-          ["webwtip.semipool.com","https://webwtip.semipool.com/api/pool"]
+          ["webwtip.semipool.com","https://webwtip.semipool.com/api"]
      ],
      "intu": [
           ["pool.intucoin.com", "http://pool.us.intucoin.com:8117"],
