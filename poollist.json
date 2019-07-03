@@ -22,13 +22,13 @@
      ],
      "wtip": [
           ["WTIP.gonspool.com", "//wtip.gonspool.com/api"],
-          ["merge.gonspool.com/wtipdero","//merge.gonspool.com/wtipdero/api"],
-          ["merge.gonspool.com/wtipmcn","//merge.gonspool.com/wtipmcn/api"],
           ["pool.worktips.xyz","https://pool.worktips.xyz/api"],
           ["wtip.multipools.online","https://wtip.multipools.online:8119"],
           ["communitypool.org/worktips","https://communitypool.org:8449"],
           ["hydra.xripx.com","http://hydra.xripx.com:8999"],
-          ["wtipmcn.minercountry.com","https://wtipmcn.minercountry.com/api"]
+          ["wtipmcn.minercountry.com","https://wtipmcn.minercountry.com/api"],
+          ["fastpool.xyz/wtip","https://backup.fastpool.xyz:8185"],
+          ["webwtip.semipool.com","https://webwtip.semipool.com/api/pool"]
      ],
      "intu": [
           ["pool.intucoin.com", "http://pool.us.intucoin.com:8117"],
