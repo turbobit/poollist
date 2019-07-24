@@ -38,7 +38,8 @@
      "mtip": [
           [ "mtip.gonspool.com","//mtip.gonspool.com/api"],
           [ "mtip.heigh-ho.funkypenguin.co.nz","https://api.mtip.heigh-ho.funkypenguin.co.nz"],
-          ["webmtip.semipool.com","https://webmtip.semipool.com/api/pool"]   
+          [ "webmtip.semipool.com","https://webmtip.semipool.com/api/pool"],
+          [ "monkeyshits.imhard4.men","http://96.83.137.21:8117"]
      ],
      "lcx": [
           [ "lcx.gonspool.com","//lcx.gonspool.com/api"],
