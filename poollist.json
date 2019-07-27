@@ -18,7 +18,10 @@
           ["tyc.gonspool.com" , "//tyc.gonspool.com/api"],
           ["gonspool.com/test-seede" , "//tyc.gonspool.com/api-seede"],
           ["tyche.cryptomasterpool.com","http://tyche.cryptomasterpool.com/api"],
-          ["tychemcn.avensat.com","http://144.76.225.9:8002"]
+          ["tychemcn.avensat.com","http://144.76.225.9:8002"],
+          ["newpool.pw/tych_ncp","https://minenice.newpool.pw:8223"],
+          ["newpool.pw/tych_vgc","https://minenice.newpool.pw:8233"]
+
      ],
      "wtip": [
           ["WTIP.gonspool.com", "//wtip.gonspool.com/api"],
@@ -37,9 +40,8 @@
      ],
      "mtip": [
           [ "mtip.gonspool.com","//mtip.gonspool.com/api"],
-          [ "mtip.heigh-ho.funkypenguin.co.nz","https://api.mtip.heigh-ho.funkypenguin.co.nz"],
-          [ "webmtip.semipool.com","https://webmtip.semipool.com/api/pool"],
-          [ "monkeyshits.imhard4.men","http://96.83.137.21:8117"]
+          [ "monkeyshits.imhard4.men","http://96.83.137.21:8117"],
+          [ "webmtip.semipool.com","https://webmtip.semipool.com/api/pool"]
      ],
      "lcx": [
           [ "lcx.gonspool.com","//lcx.gonspool.com/api"],
