@@ -15,12 +15,7 @@
      ],
      "tych": [
           ["tychecash.net", "http://tychecash.net:8117"],
-          ["tyc.gonspool.com" , "//tyc.gonspool.com/api"],
-          ["tyche.cryptomasterpool.com","http://tyche.cryptomasterpool.com/api"],
-          ["tychemcn.avensat.com","http://144.76.225.9:8002"],
-          ["newpool.pw/tych_ncp","https://minenice.newpool.pw:8223"],
-          ["newpool.pw/tych_vgc","https://minenice.newpool.pw:8233"]
-
+          ["tyc.gonspool.com" , "//tyc.gonspool.com/api"]
      ],
      "wtip": [
           ["WTIP.gonspool.com", "//wtip.gonspool.com/api"],
